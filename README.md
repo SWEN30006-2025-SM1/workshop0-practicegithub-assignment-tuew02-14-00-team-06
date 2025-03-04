@@ -3,3 +3,4 @@ A template for Workshop 0
 
 ## Group members add name plus code
 Lenni Migios - 1461288
+Vishay Chotai - 1463462
